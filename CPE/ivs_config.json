@@ -1,0 +1,18 @@
+{
+   "certificateValidationEnabled": false,
+   "maximumContentSize": 1024000000,
+   "enableFtpClientTrace": true,
+   "enableAnnotationCreation": true,
+   "annotationClassName": "Annotation",
+   "annotationDescriptiveText": "IBM Video Captions",
+   "supportedVideoFormat": {   
+		"video/quicktime":"mov",
+		"video/x-flv":"flv",
+		"video/mp4":"mp4",
+	},
+    "global": {
+      "clientId": "59892348bbb177d2bbd57676557487a1666dec15",	  
+      "evsUrl": "https://video.ibm.com",
+      "channelId": "23737048"
+   }
+}
